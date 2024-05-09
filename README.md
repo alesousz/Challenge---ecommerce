@@ -18,7 +18,7 @@ O objetivo do desafio consistia em praticar o CRUD, mais especificamente a parte
 
 # 📁 Acesso ao projeto
 
-<a href="">Você pode baixar o código-fonte do projeto pelo GitHub e executá-lo localmente no seu navegador.</a>
+<a href="https://github.com/alesousz/Challenge---ecommerce/archive/refs/heads/main.zip">Você pode baixar o código-fonte do projeto pelo GitHub e executá-lo localmente no seu navegador.</a>
 
 **Divertir-se com o site!**
 <br><br>
@@ -32,6 +32,8 @@ As tecnologias utilizadas neste projeto foram:
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/JQuery-F7DF1E?style=for-the-badge&logo=jquery&logoColor=black">
+  <img src="https://img.shields.io/badge/Node.js-F7DF1E?style=for-the-badge&logo=node.js&logoColor=black&color=blue">
+  
   
 </div>
 

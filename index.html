@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="/style/style.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+      integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA=="
+      crossorigin="anonymous"
+      referrerpolicy="no-referrer"
+    />
+    <title>AluraKids</title>
+    <link
+      rel="shortcut icon"
+      href="/assets/icon title.png"
+      type="image/x-icon"
+    />
+  </head>
+  <body>
+    <header>
+      <a href=""
+        ><h1>AluraKids <img src="/assets/icon title.png" alt="" /></h1
+      ></a>
+      <a href="#" class="black-link" title="Link Text">
+        ><i class="fa-solid fa-person-walking-arrow-loop-left fa-2xl"></i
+      ></a>
+    </header>
+    <main>
+      <div class="container-produtos">
+        <div id="titulo-produtos">
+          <h2>MEUS PRODUTOS:</h2>
+        </div>
+        <div class="section-produtos" data-lista></div>
+      </div>
+
+      <div class="container-form">
+        <div id="titulo-form">
+          <h2>ADICIONAR PRODUTO:</h2>
+        </div>
+
+        <form action="/adicionar" id="form" data-formulario>
+          <input
+            type="text"
+            placeholder="nome..."
+            required
+            maxlength="20"
+            data-nome
+          />
+          <input type="number" placeholder="valor..." required data-valor />
+          <input type="url" placeholder="imagem..." required data-imagem />
+          <div class="botoes">
+            <button id="botao-azul" type="submit">Guardar</button>
+            <button id="botao-branco" type="reset">Limpar</button>
+          </div>
+        </form>
+      </div>
+    </main>
+    <footer>
+      <div class="site">
+        <a href="">Tuor</a>
+        <a href="">Ajuda</a>
+        <a href="">Chat</a>
+        <a href="">Contato</a>
+      </div>
+      <div class="info-footer">
+        <h2>AluraKids</h2>
+        <p>DESENVOLVIDO POR ALEXANDRE JOSÉ</p>
+        <p>ALE&RAPHA LATAM - 2024</p>
+      </div>
+      <div class="redes-sociais">
+        <a href=""><i class="fa-brands fa-facebook"></i> Facebook</a>
+        <a href=""><i class="fa-brands fa-x-twitter"></i> Twitter</a>
+        <a href=""><i class="fa-brands fa-linkedin"></i> Linkedin</a>
+        <a href=""><i class="fa-brands fa-instagram"></i> Instagram</a>
+      </div>
+    </footer>
+    <script src="/js/mostrarProduto.js" type="module"></script>
+    <script src="/js/criaProduto.js" type="module"></script>
+    <script src="/js/deletaProduto.js" type="module"></script>
+  </body>
+</html>

@@ -1,0 +1,58 @@
+{
+  "produto": [
+    {
+      "nome": "Lápis",
+      "valor": "15",
+      "imagem": "https://th.bing.com/th/id/R.1c87a34ee9723b73a8042f49e1e286ec?rik=4551T%2fz5PoVm7w&pid=ImgRaw&r=0",
+      "id": 1
+    },
+    {
+      "nome": "Caderno",
+      "valor": "35",
+      "imagem": "https://th.bing.com/th/id/OIP.ifv5z7835t3MOs6__CWISgHaHa?rs=1&pid=ImgDetMain",
+      "id": 2
+    },
+    {
+      "nome": "Chiclete",
+      "valor": "5",
+      "imagem": "https://www.historiadetudo.com/wp-content/uploads/2015/03/chiclete-1.jpg",
+      "id": 3
+    },
+    {
+      "nome": "Pião",
+      "valor": "9",
+      "imagem": "https://th.bing.com/th/id/R.254464aef96e15ec19ed418f4e99db32?rik=jCOzvGiGtRX0mA&pid=ImgRaw&r=0",
+      "id": 4
+    },
+    {
+      "nome": "Sol",
+      "valor": "0",
+      "imagem": "https://w7.pngwing.com/pngs/130/515/png-transparent-icon-sunshine-text-orange-sunlight.png",
+      "id": 5
+    },
+    {
+      "nome": "Bicicleta",
+      "valor": "100",
+      "imagem": "https://th.bing.com/th/id/OIG3.Nk17lsHf5liTq0xxr3KR?w=1024&h=1024&rs=1&pid=ImgDetMain",
+      "id": 6
+    },
+    {
+      "nome": "Skate",
+      "valor": "89",
+      "imagem": "https://th.bing.com/th/id/OIG4.7bz23k.q0E6dKi26h_md?w=1024&h=1024&rs=1&pid=ImgDetMain",
+      "id": 7
+    },
+    {
+      "nome": "Calção",
+      "valor": "25",
+      "imagem": "https://th.bing.com/th/id/OIG1.aS27.lOI84MzTzyBypj6?w=1024&h=1024&rs=1&pid=ImgDetMain",
+      "id": 8
+    },
+    {
+      "nome": "CD Palavra Cantada",
+      "valor": "18",
+      "imagem": "https://d1pkzhm5uq4mnt.cloudfront.net/imagens/capas/_164f222fe40def9b97166986a228871df89c88be.jpg",
+      "id": 9
+    }
+  ]
+}

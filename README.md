@@ -12,7 +12,7 @@ O objetivo do desafio consistia em praticar o CRUD, mais especificamente a parte
 
 ## 🔨 Funcionalidades do projeto
 
-- `Funcionalidade 1`: Node.js com json-server
+- `Funcionalidade 1`: Node.js com json-server > Foi muito interessante simular um bando de dados para praticar o CRUD de um projeto !!!
 
 <br><br>
 

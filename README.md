@@ -5,9 +5,9 @@
 
 **Descrição**
 
-Este é um projeto desenvolvido no Programa ONE, da Equipe Oracle Next Education. Este projeto foi desenvolvido a partir da formação  na plataforma da Alura  e envolveu o uso de JavaScript, HTML, CSS e DOM para criar um site responsivo.
+Este é um projeto desenvolvido no Programa ONE, da Equipe Oracle Next Education + Alura. Este projeto foi desenvolvido a partir da formação Fase 3 - Especialização Front-End na plataforma da Alura  e envolveu o uso de JavaScript, HTML, CSS e DOM, Node.js para criar um site responsivo.
 
-O site consiste em praticar o CRUD, mais especificamente a parte de Create, Read e Delete (Criação, Leitura e Exclusão).
+O objetivo do desafio consistia em praticar o CRUD, mais especificamente a parte de Create, Read e Delete (Criação, Leitura e Exclusão).
 <br><br>
 
 ## 🔨 Funcionalidades do projeto
